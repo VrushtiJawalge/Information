@@ -6,6 +6,7 @@
     bottom: 20px;
     right: 20px; 
     }
+    
     img{
         height: 300px;
         width: 300px;
@@ -49,7 +50,7 @@
     }
     #allinfo{
         height: 800px;
-        width: 1450px;
+        width: 1200px;
         text-align: justify;
         font-size: 25px;
         padding-top: 25px;
